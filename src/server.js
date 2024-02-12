@@ -22,6 +22,6 @@ server.listen(8000, () => {
   console.log("Boas-Vindas da API do AllBooks")
   console.log("API disponível atrave da http://localhost:8000")
 =======
-  console.log("Acesso esse API em http://localhost:8000")
+  console.log("Acesso esse API em: http://localhost:8000")
 >>>>>>> 6c98c0bc45bba6482786389fe3e154bddf7f4033
 })
